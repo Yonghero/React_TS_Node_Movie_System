@@ -1,0 +1,4 @@
+{
+    "git.ignoreLimitWarning": true ,
+    "typescript.tsdk": "./movie-system/client/node_modules\\typescript\\lib"
+}
